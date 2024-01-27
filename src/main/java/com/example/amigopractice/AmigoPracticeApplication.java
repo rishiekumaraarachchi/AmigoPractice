@@ -19,5 +19,4 @@ public class AmigoPracticeApplication {
         SpringApplication.run(AmigoPracticeApplication.class, args);
     }
 
-
 }
